@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Lions
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: cdae908131a823e4493ac35e7abd8d8a, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 7892554645520250775, guid: fed034c6a94bb9e469f63374a744e60c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 99ff59d5e7f636d4e936cfe8a2d4d24f, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 4658519282936274265, guid: 7d4d124e26b24224bb8dc377215f9fb1, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: d831b7e57f789a34a989cd20f81044b0, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 361480928680430294, guid: faa5edec157f4a64186512a63436b7c4, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 76e1780af4a26e1428e13a029518d1f7, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 6186730711823340620, guid: 5c18075b84924254f9e105999362d2cb, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: bd3cb4af8406d4436a2ae8c2aafe1f8d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 4c8aa65b6e5f0664fbd25d8323d404ed, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 7776914734140922475, guid: 1ad9eccad22cb0943b6a5018916537a4, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 1e19c3f1647b091459d2a9da5211ba21, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
